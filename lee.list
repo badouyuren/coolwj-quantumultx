@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,steampowered.com,PROXY
 DOMAIN-KEYWORD,github,PROXY
 DOMAIN-SUFFIX,poe.com,PROXY
 DOMAIN-SUFFIX,huggingface.co,PROXY
+DOMAIN-SUFFIX,eddit.com,PROXY
 
 
 # 直连地址
