@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,github,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,grok.com,PROXY
+DOMAIN-SUFFIX,x.com,PROXY
 DOMAIN-SUFFIX,thepiratebay.org,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY
 DOMAIN-SUFFIX,steampowered.com,PROXY
@@ -18,7 +19,6 @@ DOMAIN-KEYWORD,huawei,DIRECT
 DOMAIN-SUFFIX,hecom.cn,DIRECT
 DOMAIN-SUFFIX,kdocs.cn,DIRECT
 DOMAIN-SUFFIX,tapd.cn,DIRECT
-
 
 # 拒绝地址
 HOST,sylvan.apple.com,REJECT
