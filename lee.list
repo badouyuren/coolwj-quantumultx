@@ -1,2 +1,25 @@
+# 代理地址
 DOMAIN-SUFFIX,coolwj.com,PROXY
+DOMAIN-SUFFIX,github.githubassets.com,PROXY
+DOMAIN-SUFFIX,avatars.githubusercontent.com,PROXY
+DOMAIN-SUFFIX,grok.com,PROXY
+DOMAIN-SUFFIX,thepiratebay.org,PROXY
+DOMAIN-SUFFIX,v2ex.com,PROXY
+DOMAIN-SUFFIX,steampowered.com,PROXY
 DOMAIN-KEYWORD,github,PROXY
+DOMAIN-SUFFIX,poe.com,PROXY
+DOMAIN-SUFFIX,huggingface.co,PROXY
+
+
+# 直连地址
+DOMAIN-SUFFIX,aliyun.com,DIRECT
+DOMAIN-KEYWORD,huawei,DIRECT
+DOMAIN-SUFFIX,hecom.cn,DIRECT
+DOMAIN-SUFFIX,kdocs.cn,DIRECT
+DOMAIN-SUFFIX,tapd.cn,DIRECT
+
+
+
+
+# 拒绝地址
+HOST,sylvan.apple.com,REJECT
