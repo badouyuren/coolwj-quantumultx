@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,godaddy.com,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,gemini.google.com,PROXY
+DOMAIN-SUFFIX,googleapis.com,PROXY
+
 
 # 直连地址
 DOMAIN-SUFFIX,aliyun.com,DIRECT
