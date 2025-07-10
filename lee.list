@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,poe.com,PROXY
 DOMAIN-SUFFIX,huggingface.co,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,godaddy.com,PROXY
+DOMAIN-SUFFIX,docker.com,PROXY
 
 # 直连地址
 DOMAIN-SUFFIX,aliyun.com,DIRECT
