@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,gstatic.com,PROXY
 DOMAIN-SUFFIX,googleusercontent.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
+DOMAIN-SUFFIX,suno.com,PROXY
 
 
 # 直连地址
