@@ -1,6 +1,7 @@
 # 代理地址
 DOMAIN-SUFFIX,coolwj.com,PROXY
 DOMAIN-KEYWORD,github,PROXY
+DOMAIN-SUFFIX,github.io,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,grok.com,PROXY
