@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,dify.ai,PROXY
 DOMAIN-SUFFIX,huggingface.co,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,redd.it,PROXY
+DOMAIN-SUFFIX,redditmedia.com,PROXY
 DOMAIN-SUFFIX,godaddy.com,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,gemini.google.com,PROXY
