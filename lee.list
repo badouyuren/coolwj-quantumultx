@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,suno.com,PROXY
+DOMAIN-SUFFIX,pstmn.io,PROXY
+DOMAIN-SUFFIX,postman.com,PROXY
 
 
 # 直连地址
