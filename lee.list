@@ -53,4 +53,5 @@ DOMAIN-SUFFIX,kimi.com,DIRECT
 
 # 拒绝地址
 HOST,sylvan.apple.com,REJECT
+DOMAIN-SUFFIX,umeng.com,DIRECT
 IP-CIDR, 202.108.15.155/32, REJECT
