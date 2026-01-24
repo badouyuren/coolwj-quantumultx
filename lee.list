@@ -74,6 +74,49 @@ IP-CIDR, 103.41.167.0/24,REJECT
 IP-CIDR, 119.29.29.0/24,REJECT
 
 
+106.13.249.249
+61.241.148.62
+123.6.52.68:443
+106.13.249.166:443
+123.148.116.102:443
+103.41.167.237:80
+106.13.249.166:443
+123.6.52.113:443
+106.13.249.166:443
+61.168.54.10:80
+61.168.54.11:80
+123.6.141.12:80
+101.72.249.89:443
+119.188.134.67:443
+60.28.220.199:443
+60.28.220.199:443
+123.125.244.81:443
+123.6.141.12:80
+60.31.192.68:443
+116.196.155.61:443
+221.204.18.220:443
+123.6.101.141:443
+116.196.152.184:443
+123.6.52.113:443
+106.13.249.166:443
+116.196.152.184:443
+
+imp.voiceads.cn:443
+
+open.kuaishouzt.com:443
+app-analytics-services.com:443
+hs.yuelanxinghe.com:443
+monitor.ssp.coolpush.cn:443
+s3plus.meituan.net:443
+api.union.qihuapi.com:443
+api-access.pangolin-sdk-toutiao1.com
+track.vol.ad-link.cn:443
+vt.bidex.cn:443
+ehub-vt.ipinyou.com:443
+www.pangolin-dsp-toutiao.com:443
+lf6-sf-be-pack-sign.pglstatp-toutiao.com:80
+
+
 
 DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,domob.cn,REJECT
