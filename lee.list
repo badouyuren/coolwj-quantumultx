@@ -53,13 +53,14 @@ DOMAIN-SUFFIX,kimi.com,DIRECT
 
 # 拒绝地址
 HOST,sylvan.apple.com,REJECT
-
-HOST, img1.360buyimg.com,REJECT
+HOST,httpdns.volcengineapi.com,REJECT
+HOST,img1.360buyimg.com,REJECT
+HOST, httpdns.c.cdnhwc2.com ,REJECT
+HOST, httpdns.alicdn.com,REJECT
+HOST,main.m.taobao.com,REJECT
 
 DOMAIN-SUFFIX,tqxusw.com,REJECT
 DOMAIN-SUFFIX,yijuntour.com,REJECT
-HOST, httpdns.c.cdnhwc2.com ,REJECT
-HOST, httpdns.alicdn.com,REJECT
 DOMAIN-SUFFIX,inkuai.com,REJECT
 DOMAIN-SUFFIX,kwaizt.com,REJECT
 DOMAIN-SUFFIX,voiceads.cn,REJECT
@@ -86,6 +87,10 @@ DOMAIN-SUFFIX,volceapplog.com,REJECT
 DOMAIN-SUFFIX,lanjingads.com,REJECT
 DOMAIN-SUFFIX,umengcloud.com,REJECT
 DOMAIN-SUFFIX,bayescom.com,REJECT
+DOMAIN-SUFFIX,miaozhen.com,REJECT
+DOMAIN-SUFFIX,meishesdk.com,REJECT
+
+
 
 IP-CIDR, 123.6.52.0/24,REJECT,no-resolve
 IP-CIDR, 106.13.244.0/24,REJECT,no-resolve
