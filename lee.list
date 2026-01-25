@@ -83,7 +83,7 @@ DOMAIN-SUFFIX,shuzilm.cn,REJECT
 DOMAIN-SUFFIX,telecome.cn,REJECT
 DOMAIN-SUFFIX,volces.com,REJECT
 DOMAIN-SUFFIX,volceapplog.com,REJECT
-DOMAIN-SUFFIX,langjingads.com,REJECT
+DOMAIN-SUFFIX,lanjingads.com,REJECT
 DOMAIN-SUFFIX,umengcloud.com,REJECT
 DOMAIN-SUFFIX,bayescom.com,REJECT
 
