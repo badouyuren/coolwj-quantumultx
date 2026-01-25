@@ -109,7 +109,7 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT
 DOMAIN-SUFFIX,ad-link.cn,REJECT
 DOMAIN-SUFFIX,bidex.cn,REJECT
 DOMAIN-SUFFIX,ipinyou.com,REJECT
-pangolin-dsp-toutiao.com,REJECT
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,domob.cn,REJECT
