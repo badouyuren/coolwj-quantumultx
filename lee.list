@@ -55,8 +55,9 @@ DOMAIN-SUFFIX,kimi.com,DIRECT
 HOST,sylvan.apple.com,REJECT
 HOST,httpdns.volcengineapi.com,REJECT
 HOST,img1.360buyimg.com,REJECT
-HOST, httpdns.c.cdnhwc2.com ,REJECT
-HOST, httpdns.alicdn.com,REJECT
+HOST,img1.360buyimg.com,REJECT
+HOST,httpdns.c.cdnhwc2.com ,REJECT
+HOST,httpdns.alicdn.com,REJECT
 HOST,main.m.taobao.com,REJECT
 
 DOMAIN-SUFFIX,tqxusw.com,REJECT
@@ -92,6 +93,7 @@ DOMAIN-SUFFIX,meishesdk.com,REJECT
 DOMAIN-SUFFIX,getui.com,REJECT
 DOMAIN-SUFFIX,getui.net,REJECT
 DOMAIN-SUFFIX,zztfly.com,REJECT
+DOMAIN-SUFFIX,tanx.com,REJECT
 
 
 
