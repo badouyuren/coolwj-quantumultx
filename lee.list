@@ -98,23 +98,19 @@ IP-CIDR, 123.6.52.0/24,REJECT
 IP-CIDR, 106.13.249.0/24,REJECT
 IP-CIDR, 116.196.152.0/24,REJECT
 
-imp.voiceads.cn:443
-
-open.kuaishouzt.com:443
-app-analytics-services.com:443
-hs.yuelanxinghe.com:443
-monitor.ssp.coolpush.cn:443
-s3plus.meituan.net:443
-api.union.qihuapi.com:443
-api-access.pangolin-sdk-toutiao1.com
-track.vol.ad-link.cn:443
-vt.bidex.cn:443
-ehub-vt.ipinyou.com:443
-www.pangolin-dsp-toutiao.com:443
-lf6-sf-be-pack-sign.pglstatp-toutiao.com:80
-
-
-
+DOMAIN-SUFFIX,voiceads.cn,REJECT
+DOMAIN-SUFFIX,kuaishouzt.com,REJECT
+DOMAIN-SUFFIX,app-analytics-services.com,REJECT
+DOMAIN-SUFFIX,yuelanxinghe.com,REJECT
+DOMAIN-SUFFIX,coolpush.cn,REJECT
+DOMAIN-SUFFIX,s3plus.meituan.net,REJECT
+DOMAIN-SUFFIX,qihuapi.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT
+DOMAIN-SUFFIX,ad-link.cn,REJECT
+DOMAIN-SUFFIX,bidex.cn,REJECT
+DOMAIN-SUFFIX,ipinyou.com,REJECT
+pangolin-dsp-toutiao.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,domob.cn,REJECT
 DOMAIN-SUFFIX,uyunad.com,REJECT
