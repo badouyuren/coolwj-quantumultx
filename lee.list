@@ -64,6 +64,7 @@ HOST,im-x.jd.com,REJECT
 HOST,t-dsp.pinduoduo.com,REJECT
 HOST,images.pinduoduo.com,REJECT
 HOST,s3plus.meituan.net,REJECT
+HOST,tnc3-alisc1.zijieapi.com,REJECT
 
 DOMAIN-SUFFIX,tqxusw.com,REJECT
 DOMAIN-SUFFIX,yijuntour.com,REJECT
