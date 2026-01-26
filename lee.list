@@ -59,6 +59,9 @@ HOST,img2.360buyimg.com,REJECT
 HOST,httpdns.c.cdnhwc2.com ,REJECT
 HOST,httpdns.alicdn.com,REJECT
 HOST,main.m.taobao.com,REJECT
+im-x.jd.com:443
+t-dsp.pinduoduo.com:443
+images.pinduoduo.com:443
 
 DOMAIN-SUFFIX,tqxusw.com,REJECT
 DOMAIN-SUFFIX,yijuntour.com,REJECT
@@ -94,8 +97,11 @@ DOMAIN-SUFFIX,getui.com,REJECT
 DOMAIN-SUFFIX,getui.net,REJECT
 DOMAIN-SUFFIX,zztfly.com,REJECT
 DOMAIN-SUFFIX,tanx.com,REJECT
-
-
+DOMAIN-SUFFIX,qchannel01.cn,REJECT
+DOMAIN-SUFFIX,cyapi.cn,REJECT
+DOMAIN-SUFFIX,adukwai.com,REJECT
+DOMAIN-SUFFIX,adxvip.com,REJECT
+DOMAIN-SUFFIX,adukwai.com,REJECT
 
 IP-CIDR, 123.6.52.0/24,REJECT,no-resolve
 IP-CIDR, 106.13.244.0/24,REJECT,no-resolve
@@ -215,38 +221,4 @@ IP-CIDR, 123.6.141.0/24,REJECT
 IP-CIDR, 116.196.152.0/24,REJECT
 IP-CIDR, 119.29.29.0/24,REJECT
 IP-CIDR, 106.13.244.0/24,REJEC
-
-
-HOST, img1.360buyimg.com,REJECT
-
-DOMAIN-SUFFIX,tqxusw.com,REJECT
-DOMAIN-SUFFIX,yijuntour.com,REJECT
-HOST, httpdns.c.cdnhwc2.com ,REJECT
-HOST, httpdns.alicdn.com,REJECT
-DOMAIN-SUFFIX,inkuai.com,REJECT
-DOMAIN-SUFFIX,kwaizt.com,REJECT
-DOMAIN-SUFFIX,voiceads.cn,REJECT
-DOMAIN-SUFFIX,kuaishouzt.com,REJECT
-DOMAIN-SUFFIX,app-analytics-services.com,REJECT
-DOMAIN-SUFFIX,yuelanxinghe.com,REJECT
-DOMAIN-SUFFIX,coolpush.cn,REJECT
-DOMAIN-SUFFIX,s3plus.meituan.net,REJECT
-DOMAIN-SUFFIX,qihuapi.com,REJECT
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT
-DOMAIN-SUFFIX,ad-link.cn,REJECT
-DOMAIN-SUFFIX,bidex.cn,REJECT
-DOMAIN-SUFFIX,ipinyou.com,REJECT
-DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,REJECT
-DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
-DOMAIN-SUFFIX,umeng.com,REJECT
-DOMAIN-SUFFIX,domob.cn,REJECT
-DOMAIN-SUFFIX,uyunad.com,REJECT
-DOMAIN-SUFFIX,vzuu.com,REJECT
-DOMAIN-SUFFIX,shuzilm.cn,REJECT
-DOMAIN-SUFFIX,telecome.cn,REJECT
-DOMAIN-SUFFIX,volces.com,REJECT
-DOMAIN-SUFFIX,volceapplog.com,REJECT
-DOMAIN-SUFFIX,langjingads.com,REJECT
-DOMAIN-SUFFIX,umengcloud.com,REJECT
-DOMAIN-SUFFIX,bayescom.com,REJECT
 
