@@ -1,19 +1,18 @@
 # 拒绝地址
-HOST,sylvan.apple.com,REJECT
-HOST,httpdns.volcengineapi.com,REJECT
 HOST,img1.360buyimg.com,REJECT
 HOST,img2.360buyimg.com,REJECT
+HOST,main.m.taobao.com,REJECT
+HOST,s3plus.meituan.net,REJECT
+HOST,im-x.jd.com,REJECT
+HOST,httpdns.volcengineapi.com,REJECT
+
 HOST,httpdns.c.cdnhwc2.com ,REJECT
 HOST,httpdns.alicdn.com,REJECT
-HOST,main.m.taobao.com,REJECT
-HOST,im-x.jd.com,REJECT
 HOST,t-dsp.pinduoduo.com,REJECT
 HOST,images.pinduoduo.com,REJECT
-HOST,s3plus.meituan.net,REJECT
 HOST,tnc3-alisc1.zijieapi.com,REJECT
-
-host, ad.12306.cn, reject
-host, sdkapp.uve.weibo.com, reject
+HOST,ad.12306.cn, REJECT
+HOST,sdkapp.uve.weibo.com, REJECT
 
 DOMAIN-SUFFIX,tqxusw.com,REJECT
 DOMAIN-SUFFIX,yijuntour.com,REJECT
