@@ -1,3 +1,6 @@
+; 墨鱼 https://ddgksf2013.top/Profile/QuantumultX.conf
+; 毒奶博主 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf
+
 [general]
 
 # > 用于节点延迟测试
@@ -51,21 +54,17 @@ https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/AmapAds.conf, tag=高�
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf, tag=网易云净化@ddgksf2013, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Netease_Music.png, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/GoofishAds.conf, tag=闲鱼净化[卸载重装]@ddgksf2013, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/xianyu.png, update-interval=86400, opt-parser=false, enabled=true
 
-
 # ======= 网页优化 ======= #
 https://github.com/ddgksf2013/Rewrite/raw/master/Html/Q-Search.conf, tag=Safari超级搜索@ddgksf2013, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/search.png, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf, tag=豆瓣网页观影快捷跳转@ddgksf2013, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/douban.png, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/Html/General.conf, tag=Google重定向@DivineEngine, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Google.png, update-interval=86400, opt-parser=false, enabled=true
-
 
 # ======= 功能增强 ======= #
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShuAds.conf, tag=小红书净化+去水印@ddgksf2013, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/xiaohongshu.png, update-interval=86400, opt-parser=false, enabled=true
 https://ddgksf2013.top/scripts/bdpan.ads.js, tag=百度网盘净化@ddgksf2013, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/baiduwangpan.png, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Function/UnblockURLinWeChat.conf, tag=微信解锁被屏蔽的URL@zZPiglet, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/WeChat.png, update-interval=86400, opt-parser=false, enabled=true
 
-
 [server_local]
-
 
 
 [server_remote]
@@ -107,46 +106,27 @@ url-latency-benchmark=一元机场, server-tag-regex=^(?=.*(美|US|(?i)States|Am
 
 
 [filter_remote]
-https://raw.githubusercontent.com/badouyuren/coolwj-quantumultx/main/ads.list, tag=lee, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/badouyuren/coolwj-quantumultx/main/ads.list, tag=傻逼广告, update-interval=172800, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/badouyuren/coolwj-quantumultx/main/lee.list, tag=lee, update-interval=172800, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/badouyuren/coolwj-quantumultx/main/40x.list, tag=消失的网, force-policy=消失的网, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/GlobalMedia.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ddgksf2013/Filter/master/Unbreak.list, tag=规则修正, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Direct.png, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/qx.conf, tag=广告终结者, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Advertising.png, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
+https://limbopro.com/Adblock4limbo.list, tag=毒奶特供(去网页广告计划), force-policy=🛑 广告拦截, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list, tag=苹果服务, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Apple.png, force-policy=苹果服务, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Proxy.list, tag=全球加速, force-policy=全球加速, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Global.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list, tag=国内网站, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/China.png, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
 https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml, tag=Ai-All-In-One, img-url=https://raw.githubusercontent.com/ddgksf2013/Icon/master/qx/ai.png, force-policy=美国节点, update-interval=172800, opt-parser=true, enabled=true
 
-
-
 [filter_local]
-
-# > local
 ip-cidr, 10.0.0.0/8, direct
 ip-cidr, 127.0.0.0/8, direct
 ip-cidr, 172.16.0.0/12, direct
 ip-cidr, 192.168.0.0/16, direct
 ip-cidr, 224.0.0.0/24, direct
-ip-cidr, 182.254.116.0/24, direct
-
 geoip, cn, direct
 final, 兜底分流
 
-
-
 [http_backend]
 
-# > Boxjs设置，改为使用http backend方式，访问地址改为http://127.0.0.1:9999，更新配置后请长按风车-更新，然后重启代理
-# > BoxJs相关教程参考「https://docs.boxjs.app」
-https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js, host=boxjs.com, tag=BoxJS, path=^/, enabled=false
-
-
-
 [mitm]
-
-skip_validating_cert = true
-force_sni_domain_name = false
-
-hostname = -testflight.apple.com, -*.fcbox.com, -*huami.com, -*amemv.com, -*snssdk.com, -www.google.com
-
-# 🟢 墨鱼提醒passphrase和p12代为证书&主机名部分, 更新配置前可把旧的配置中passphrase和p12代码拷贝下来, 导入新的配置文件把内容粘贴在对应位置就不用重装证书
