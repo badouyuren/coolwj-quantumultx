@@ -1,0 +1,101 @@
+# 拒绝地址
+HOST,sylvan.apple.com,REJECT
+HOST,httpdns.volcengineapi.com,REJECT
+HOST,img1.360buyimg.com,REJECT
+HOST,img2.360buyimg.com,REJECT
+HOST,httpdns.c.cdnhwc2.com ,REJECT
+HOST,httpdns.alicdn.com,REJECT
+HOST,main.m.taobao.com,REJECT
+HOST,im-x.jd.com,REJECT
+HOST,t-dsp.pinduoduo.com,REJECT
+HOST,images.pinduoduo.com,REJECT
+HOST,s3plus.meituan.net,REJECT
+HOST,tnc3-alisc1.zijieapi.com,REJECT
+
+DOMAIN-SUFFIX,tqxusw.com,REJECT
+DOMAIN-SUFFIX,yijuntour.com,REJECT
+DOMAIN-SUFFIX,inkuai.com,REJECT
+DOMAIN-SUFFIX,kwaizt.com,REJECT
+DOMAIN-SUFFIX,adukwai.com,REJECT
+DOMAIN-SUFFIX,kuaishouzt.com,REJECT
+DOMAIN-SUFFIX,voiceads.cn,REJECT
+DOMAIN-SUFFIX,app-analytics-services.com,REJECT
+DOMAIN-SUFFIX,yuelanxinghe.com,REJECT
+DOMAIN-SUFFIX,coolpush.cn,REJECT
+DOMAIN-SUFFIX,qihuapi.com,REJECT
+DOMAIN-SUFFIX,ad-link.cn,REJECT
+DOMAIN-SUFFIX,bidex.cn,REJECT
+DOMAIN-SUFFIX,ipinyou.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+DOMAIN-SUFFIX,domob.cn,REJECT
+DOMAIN-SUFFIX,uyunad.com,REJECT
+DOMAIN-SUFFIX,vzuu.com,REJECT
+DOMAIN-SUFFIX,shuzilm.cn,REJECT
+DOMAIN-SUFFIX,telecome.cn,REJECT
+DOMAIN-SUFFIX,volces.com,REJECT
+DOMAIN-SUFFIX,volceapplog.com,REJECT
+DOMAIN-SUFFIX,lanjingads.com,REJECT
+DOMAIN-SUFFIX,umengcloud.com,REJECT
+DOMAIN-SUFFIX,bayescom.com,REJECT
+DOMAIN-SUFFIX,miaozhen.com,REJECT
+DOMAIN-SUFFIX,meishesdk.com,REJECT
+DOMAIN-SUFFIX,getui.com,REJECT
+DOMAIN-SUFFIX,getui.net,REJECT
+DOMAIN-SUFFIX,zztfly.com,REJECT
+DOMAIN-SUFFIX,tanx.com,REJECT
+DOMAIN-SUFFIX,qchannel01.cn,REJECT
+DOMAIN-SUFFIX,qchannel03.cn,REJECT
+DOMAIN-SUFFIX,cyapi.cn,REJECT
+DOMAIN-SUFFIX,adxvip.com,REJECT
+DOMAIN-SUFFIX,brg0.com,REJECT
+
+
+
+IP-CIDR, 1.71.88.0/24,REJECT,no-resolve
+IP-CIDR, 1.194.167.0/24,REJECT,no-resolve
+
+IP-CIDR, 60.28.220.0/24,REJECT,no-resolve
+IP-CIDR, 60.31.192.0/24,REJECT,no-resolve
+IP-CIDR, 61.168.54.0/24,REJECT,no-resolve
+IP-CIDR, 61.241.148.0/24,REJECT,no-resolve
+
+
+IP-CIDR, 101.72.227.0/24,REJECT,no-resolve
+IP-CIDR, 101.72.249.0/24,REJECT,no-resolve
+IP-CIDR, 103.13.249.0/24,REJECT,no-resolve
+IP-CIDR, 103.41.107.0/24,REJECT,no-resolve
+IP-CIDR, 103.41.167.0/24,REJECT,no-resolve
+IP-CIDR, 106.13.244.0/24,REJECT,no-resolve
+IP-CIDR, 106.13.249.0/24,REJECT,no-resolve
+IP-CIDR, 106.23.244.0/24,REJECT,no-resolve
+IP-CIDR, 106.38.195.0/24,REJECT,no-resolve
+
+
+IP-CIDR, 116.196.152.0/24,REJECT,no-resolve
+IP-CIDR, 116.196.155.0/24,REJECT,no-resolve
+IP-CIDR, 116.196.156.0/24,REJECT,no-resolve
+IP-CIDR, 119.29.29.0/24,REJECT,no-resolve
+IP-CIDR, 119.188.134.0/24,REJECT,no-resolve
+
+IP-CIDR, 144.7.103.0/24,REJECT,no-resolve
+IP-CIDR, 182.61.194.0/24,REJECT,no-resolve
+
+
+IP-CIDR, 123.6.52.0/24,REJECT,no-resolve
+IP-CIDR, 123.6.101.0/24,REJECT,no-resolve
+IP-CIDR, 123.6.141.0/24,REJECT,no-resolve
+IP-CIDR, 123.12.235.0/24,REJECT,no-resolve
+IP-CIDR, 123.125.244.0/24,REJECT,no-resolve
+IP-CIDR, 123.148.116.0/24,REJECT,no-resolve
+IP-CIDR, 123.182.186.0/24,REJECT,no-resolve
+IP-CIDR, 123.182.190.0/24,REJECT,no-resolve
+IP-CIDR, 125.39.47.0/24,REJECT,no-resolve
+
+
+IP-CIDR, 202.108.15.0/24,REJECT,no-resolve
+IP-CIDR, 220.194.123.0/24,REJECT,no-resolve
+IP-CIDR, 220.181.181.0/24,REJECT,no-resolve
+IP-CIDR, 221.204.18.0/24,REJECT,no-resolve
