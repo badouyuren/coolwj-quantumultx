@@ -51,6 +51,8 @@ DOMAIN-SUFFIX,kdocs.cn,DIRECT
 DOMAIN-SUFFIX,tapd.cn,DIRECT
 DOMAIN-SUFFIX,zhihu.com,DIRECT
 DOMAIN-SUFFIX,kimi.com,DIRECT
+HOST,cn.bing.com,DIRECT
+
 
 
 # 拒绝地址
