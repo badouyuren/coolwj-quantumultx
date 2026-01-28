@@ -12,6 +12,9 @@ HOST,images.pinduoduo.com,REJECT
 HOST,s3plus.meituan.net,REJECT
 HOST,tnc3-alisc1.zijieapi.com,REJECT
 
+host, ad.12306.cn, reject
+host, sdkapp.uve.weibo.com, reject
+
 DOMAIN-SUFFIX,tqxusw.com,REJECT
 DOMAIN-SUFFIX,yijuntour.com,REJECT
 DOMAIN-SUFFIX,inkuai.com,REJECT
