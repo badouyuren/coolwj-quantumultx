@@ -1,62 +1,62 @@
 # 代理地址
-DOMAIN-SUFFIX,coolwj.com,PROXY
-DOMAIN-SUFFIX,no-mad-world.club,PROXY
+domain-suffix, coolwj.com ,proxy
+domain-suffix, no-mad-world.club ,proxy
 
-DOMAIN-KEYWORD,github,PROXY
-DOMAIN-SUFFIX,github.io,PROXY
-DOMAIN-SUFFIX,githubassets.com,PROXY
-DOMAIN-SUFFIX,githubusercontent.com,PROXY
+domain-keyword, github ,proxy
+domain-suffix, github.io ,proxy
+domain-suffix, githubassets.com ,proxy
+domain-suffix, githubusercontent.com ,proxy
 
-DOMAIN-KEYWORD,google,PROXY
-DOMAIN-SUFFIX,gemini.google.com,PROXY
-DOMAIN-SUFFIX,googleapis.com,PROXY
-DOMAIN-SUFFIX,gstatic.com,PROXY
-DOMAIN-SUFFIX,googleusercontent.com,PROXY
-DOMAIN-SUFFIX,google.com.hk,PROXY
-DOMAIN-SUFFIX,youtube.com,PROXY
+domain-keyword, google ,proxy
+domain-suffix, gemini.google.com ,proxy
+domain-suffix, googleapis.com ,proxy
+domain-suffix, gstatic.com ,proxy
+domain-suffix, googleusercontent.com ,proxy
+domain-suffix, google.com.hk ,proxy
+domain-suffix, youtube.com ,proxy
 
-DOMAIN-SUFFIX,docker.io,PROXY
-DOMAIN-SUFFIX,docker.com,PROXY
+domain-suffix, docker.io ,proxy
+domain-suffix, docker.com ,proxy
 
-DOMAIN-KEYWORD,postman,PROXY
-DOMAIN-SUFFIX,pstmn.io,PROXY
-DOMAIN-SUFFIX,postman.com,PROXY
-DOMAIN-SUFFIX,getpostman.com,PROXY
+domain-keyword, postman ,proxy
+domain-suffix, pstmn.io ,proxy
+domain-suffix, postman.com ,proxy
+domain-suffix, getpostman.com ,proxy
 
-DOMAIN-SUFFIX,grok.com,PROXY
-DOMAIN-SUFFIX,x.com,PROXY
-DOMAIN-SUFFIX,twitter.com,PROXY
-DOMAIN-SUFFIX,wikipedia.org,PROXY
-DOMAIN-SUFFIX,thepiratebay.org,PROXY
-DOMAIN-SUFFIX,v2ex.com,PROXY
-DOMAIN-SUFFIX,suno.com,PROXY
-DOMAIN-SUFFIX,steampowered.com,PROXY
-DOMAIN-SUFFIX,poe.com,PROXY
-DOMAIN-SUFFIX,dify.ai,PROXY
-DOMAIN-SUFFIX,huggingface.co,PROXY
-DOMAIN-KEYWORD,reddit,PROXY
-DOMAIN-SUFFIX,reddit.com,PROXY
-DOMAIN-SUFFIX,redd.it,PROXY
-DOMAIN-SUFFIX,redditmedia.com,PROXY
-DOMAIN-SUFFIX,godaddy.com,PROXY
+domain-suffix, grok.com ,proxy
+domain-suffix, x.com ,proxy
+domain-suffix, twitter.com ,proxy
+domain-suffix, wikipedia.org ,proxy
+domain-suffix, thepiratebay.org ,proxy
+domain-suffix, v2ex.com ,proxy
+domain-suffix, suno.com ,proxy
+domain-suffix, steampowered.com ,proxy
+domain-suffix, poe.com ,proxy
+domain-suffix, dify.ai ,proxy
+domain-suffix, huggingface.co ,proxy
+domain-keyword, reddit ,proxy
+domain-suffix, reddit.com ,proxy
+domain-suffix, redd.it ,proxy
+domain-suffix, redditmedia.com ,proxy
+domain-suffix, godaddy.com ,proxy
 
 
 # 直连地址
-DOMAIN-SUFFIX,aliyun.com,DIRECT
-DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-KEYWORD,huawei,DIRECT
-DOMAIN-SUFFIX,hc-cdn.com,DIRECT
-DOMAIN-SUFFIX,hecom.cn,DIRECT
-DOMAIN-SUFFIX,kdocs.cn,DIRECT
-DOMAIN-SUFFIX,tapd.cn,DIRECT
-DOMAIN-SUFFIX,zhihu.com,DIRECT
-DOMAIN-SUFFIX,kimi.com,DIRECT
-HOST,cn.bing.com,DIRECT
+domain-suffix, aliyun.com ,direct
+domain-suffix, microsoft.com ,direct
+domain-keyword, huawei ,direct
+domain-suffix, hc-cdn.com ,direct
+domain-suffix, hecom.cn ,direct
+domain-suffix, kdocs.cn ,direct
+domain-suffix, tapd.cn ,direct
+domain-suffix, zhihu.com ,direct
+domain-suffix, kimi.com ,direct
+HOST,cn.bing.com ,direct
 
 
 
 # 拒绝地址
-HOST,sylvan.apple.com,REJECT
+host, sylvan.apple.com ,reject
 
 
 
