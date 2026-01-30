@@ -48,6 +48,7 @@ domain-suffix, shuzilm.cn, reject
 domain-suffix, telecome.cn, reject
 domain-suffix, volces.com, reject
 domain-suffix, volceapplog.com, reject
+domain-suffix, volcimagex.net, reject
 domain-suffix, lanjingads.com, reject
 domain-suffix, umengcloud.com, reject
 domain-suffix, bayescom.com, reject
