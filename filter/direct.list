@@ -1,5 +1,6 @@
 # 直连地址
 domain-suffix, hecom.cn ,direct
+domain-keyword, microsoft ,direct
 domain-suffix, microsoft.com ,direct
 domain-suffix, bing.com ,direct
 domain-keyword, huawei ,direct
