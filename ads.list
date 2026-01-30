@@ -14,6 +14,9 @@ HOST,tnc3-alisc1.zijieapi.com,REJECT
 HOST,ad.12306.cn, REJECT
 HOST,sdkapp.uve.weibo.com, REJECT
 
+DOMAIN-SUFFIX,72kjmb.com,REJECT
+DOMAIN-SUFFIX,somamobi.com,REJECT
+DOMAIN-SUffix,ruofeisinian.com,REJECT
 DOMAIN-SUFFIX,tqxusw.com,REJECT
 DOMAIN-SUFFIX,yijuntour.com,REJECT
 DOMAIN-SUFFIX,inkuai.com,REJECT
