@@ -42,22 +42,7 @@ domain-suffix, redditmedia.com ,proxy
 domain-suffix, godaddy.com ,proxy
 
 
-# 直连地址
-domain-suffix, aliyun.com ,direct
-domain-suffix, microsoft.com ,direct
-domain-keyword, huawei ,direct
-domain-suffix, hc-cdn.com ,direct
-domain-suffix, hecom.cn ,direct
-domain-suffix, kdocs.cn ,direct
-domain-suffix, tapd.cn ,direct
-domain-suffix, zhihu.com ,direct
-domain-suffix, kimi.com ,direct
-HOST,cn.bing.com ,direct
 
-
-
-# 拒绝地址
-host, sylvan.apple.com ,reject
 
 
 
