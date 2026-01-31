@@ -92,7 +92,7 @@ ip-cidr,  103.41.167.0/24, reject, no-resolve
 ip-cidr,  106.13.244.0/24, reject, no-resolve
 ip-cidr,  106.13.249.0/24, reject, no-resolve
 ip-cidr,  106.23.244.0/24, reject, no-resolve
-ip-cidr,  106.38.195.0/24, reject, no-resolve
+#ip-cidr,  106.38.195.0/24, reject, no-resolve
 
 
 ip-cidr,  116.196.152.0/24, reject, no-resolve
@@ -118,5 +118,5 @@ ip-cidr,  125.39.47.0/24, reject, no-resolve
 
 #ip-cidr,  202.108.15.0/24, reject, no-resolve
 #ip-cidr,  220.194.123.0/24, reject, no-resolve
-ip-cidr,  220.181.181.0/24, reject, no-resolve
+#ip-cidr,  220.181.181.0/24, reject, no-resolve
 ip-cidr,  221.204.18.0/24, reject, no-resolve
