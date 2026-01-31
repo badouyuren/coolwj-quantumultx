@@ -15,6 +15,11 @@ host, images.pinduoduo.com, reject
 host, tnc3-alisc1.zijieapi.com, reject
 host, sdkapp.uve.weibo.com, REJECT
 
+domain-suffix, duga.zhihu.com, reject
+domain-suffix, datahub.zhihu.com, reject
+domain-suffix, page-modular.zhihu.com, reject
+#domain-suffix, api.zhihu.com, reject
+domain-suffix, ad.hunyuan.tencent.com, reject
 domain-suffix, 72kjmb.com, reject
 domain-suffix, somamobi.com, reject
 domain-suffix, ruofeisinian.com, reject
@@ -43,6 +48,7 @@ domain-suffix, shuzilm.cn, reject
 domain-suffix, telecome.cn, reject
 domain-suffix, volces.com, reject
 domain-suffix, volceapplog.com, reject
+domain-suffix, volcimagex.net, reject
 domain-suffix, lanjingads.com, reject
 domain-suffix, umengcloud.com, reject
 domain-suffix, bayescom.com, reject
@@ -62,13 +68,13 @@ host, ad.12306.cn, reject
 ip-cidr,  1.71.88.0/24, reject, no-resolve
 ip-cidr,  1.194.167.0/24, reject, no-resolve
 
-ip-cidr,  60.28.220.0/24, reject, no-resolve
+#ip-cidr,  60.28.220.0/24, reject, no-resolve
 ip-cidr,  60.31.192.0/24, reject, no-resolve
 ip-cidr,  61.168.54.0/24, reject, no-resolve
 ip-cidr,  61.241.148.0/24, reject, no-resolve
 
 
-ip-cidr,  101.72.227.0/24, reject, no-resolve
+#ip-cidr,  101.72.227.0/24, reject, no-resolve
 ip-cidr,  101.72.249.0/24, reject, no-resolve
 ip-cidr,  103.13.249.0/24, reject, no-resolve
 ip-cidr,  103.41.107.0/24, reject, no-resolve
@@ -83,7 +89,7 @@ ip-cidr,  116.196.152.0/24, reject, no-resolve
 ip-cidr,  116.196.155.0/24, reject, no-resolve
 ip-cidr,  116.196.156.0/24, reject, no-resolve
 ip-cidr,  119.29.29.0/24, reject, no-resolve
-ip-cidr,  119.188.134.0/24, reject, no-resolve
+#ip-cidr,  119.188.134.0/24, reject, no-resolve
 
 ip-cidr,  144.7.103.0/24, reject, no-resolve
 ip-cidr,  182.61.194.0/24, reject, no-resolve
@@ -100,7 +106,7 @@ ip-cidr,  123.182.190.0/24, reject, no-resolve
 ip-cidr,  125.39.47.0/24, reject, no-resolve
 
 
-ip-cidr,  202.108.15.0/24, reject, no-resolve
-ip-cidr,  220.194.123.0/24, reject, no-resolve
+#ip-cidr,  202.108.15.0/24, reject, no-resolve
+#ip-cidr,  220.194.123.0/24, reject, no-resolve
 ip-cidr,  220.181.181.0/24, reject, no-resolve
 ip-cidr,  221.204.18.0/24, reject, no-resolve
