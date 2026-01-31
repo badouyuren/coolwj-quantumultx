@@ -18,17 +18,17 @@ host, images.pinduoduo.com, reject
 host, tnc3-alisc1.zijieapi.com, reject
 host, sdkapp.uve.weibo.com, REJECT
 
+#逼乎广告
+#domain-suffix, api.zhihu.com, reject
 domain-suffix, duga.zhihu.com, reject
 domain-suffix, datahub.zhihu.com, reject
 domain-suffix, page-modular.zhihu.com, reject
-#domain-suffix, api.zhihu.com, reject
+domain-suffix, picx.zhimg.com, reject
 
 domain-suffix, jxdouliang.com, reject
 domain-suffix, immomo.com, reject
 domain-suffix, funmob.cn, reject
 domain-suffix, yourongsj.com, reject
-
-
 domain-suffix, ad.hunyuan.tencent.com, reject
 domain-suffix, 72kjmb.com, reject
 domain-suffix, somamobi.com, reject
