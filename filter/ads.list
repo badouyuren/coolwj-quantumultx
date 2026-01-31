@@ -1,10 +1,13 @@
-# 拒绝地址
+# 傻逼广告
+# 更新于 2026-01-31
+
 host, im-x.jd.com, reject
 host, img1.360buyimg.com, reject
 host, img2.360buyimg.com, reject
 host, main.m.taobao.com, reject
 host, s3plus.meituan.net, reject
 host, impdsp.meituan.com, reject
+host, apimobile.meituan.com, reject
 
 host, httpdns.volcengineapi.com, reject
 host, httpdns.c.cdnhwc2.com, reject
@@ -19,6 +22,13 @@ domain-suffix, duga.zhihu.com, reject
 domain-suffix, datahub.zhihu.com, reject
 domain-suffix, page-modular.zhihu.com, reject
 #domain-suffix, api.zhihu.com, reject
+
+domain-suffix, jxdouliang.com, reject
+domain-suffix, immomo.com, reject
+domain-suffix, funmob.cn, reject
+domain-suffix, yourongsj.com, reject
+
+
 domain-suffix, ad.hunyuan.tencent.com, reject
 domain-suffix, 72kjmb.com, reject
 domain-suffix, somamobi.com, reject
