@@ -30,6 +30,18 @@ host, sdkapp.uve.weibo.com, REJECT
 domain-suffix, duga.zhihu.com, reject
 domain-suffix, datahub.zhihu.com, reject
 domain-suffix, page-modular.zhihu.com, reject
+domain-suffix, pkg1.zhimg.com, reject
+domain-suffix, pkg2.zhimg.com, reject
+domain-suffix, pkg3.zhimg.com, reject
+domain-suffix, pkg4.zhimg.com, reject
+domain-suffix, pkg5.zhimg.com, reject
+domain-suffix, pkg6.zhimg.com, reject
+domain-suffix, pkg7.zhimg.com, reject
+
+
+
+
+
 
 domain-suffix, a1.alibabausercontent.com, reject
 
