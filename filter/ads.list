@@ -20,15 +20,17 @@ host, sdkapp.uve.weibo.com, REJECT
 
 #逼乎广告
 #domain-suffix, api.zhihu.com, reject
+#domain-suffix, pic1.zhimg.com, reject
+#domain-suffix, pic2.zhimg.com, reject
+#domain-suffix, pic3.zhimg.com, reject
+#domain-suffix, pic4.zhimg.com, reject
+#domain-suffix, picx.zhimg.com, reject
+#domain-suffix, pica.zhimg.com, reject
+
 domain-suffix, duga.zhihu.com, reject
 domain-suffix, datahub.zhihu.com, reject
 domain-suffix, page-modular.zhihu.com, reject
-domain-suffix, pic1.zhimg.com, reject
-domain-suffix, pic2.zhimg.com, reject
-domain-suffix, pic3.zhimg.com, reject
-domain-suffix, pic4.zhimg.com, reject
-#domain-suffix, picx.zhimg.com, reject
-#domain-suffix, pica.zhimg.com, reject
+
 domain-suffix, a1.alibabausercontent.com, reject
 
 domain-suffix, lingjuad.com, reject
